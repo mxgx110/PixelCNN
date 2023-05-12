@@ -1,2 +1,2 @@
 # PixelCNN-SingleChannel
-Implementing Pixel CNN structure to generate MNIST-like images
+Implementing Pixel CNN structure to generate single-channel/three-channel images
